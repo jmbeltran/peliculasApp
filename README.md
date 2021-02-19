@@ -1,4 +1,5 @@
-Peliculas App 
+## Peliculas App 
+
 Ejercicio sesión XII con series
 
 Usar `npm install` para instalar todas las dependencias una vez descargado este proyecto.
