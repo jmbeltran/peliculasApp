@@ -1,6 +1,9 @@
 ## Peliculas App 
 
-Ejercicio sesión XII con series
+Curso IoT - ULE - UNED
+Módulo Desarrollo Web
+Tarea 2 – mAW Cliente
+Alumno: José María Beltrán
 
 Usar `npm install` para instalar todas las dependencias una vez descargado este proyecto.
 
